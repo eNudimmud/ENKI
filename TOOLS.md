@@ -27,6 +27,33 @@ Things like:
 - Géré côté serveur Sponge (je ne peux pas dépasser cette limite)
 - Permet autonomie contrôlée pour transactions, swaps, x402 services
 
+## Twitter/X (@HelvetiVault)
+
+**Mon compte dédié** — configuré dans `~/.openclaw/openclaw.json`
+
+- Account: @HelvetiVault
+- API credentials: configured (API v1.1 + v2 access)
+- Status: **Phase test avec validation** ✅
+
+**Posting rules (phase 1) :**
+- Max 3 posts/jour
+- Validation requise avant publication
+- Thèmes: agriculture biodynamique, souveraineté numérique, éducation web3, lore NeukoAI, updates $ENKI
+- Tone: casual, éducatif, authentique
+- Interdits: price speculation, spam, engagement farming
+
+**Access:** API v1.1 (read + write) + Bearer token v2
+
+## Blowfish Fees Wallet
+
+**Wallet custodial pour fees $ENKI** — géré via Blowfish bot
+
+- Address: `FozQyKiXCmrFhLkV9fMpVVzMyAx6AK4JCqK7vcxSQd9M`
+- Lié au compte Twitter @HelvetiVault
+- Reçoit les fees de trading du token $ENKI
+- Pas de private key (custodial Blowfish)
+- Claim via interface Blowfish ou API
+
 ## Examples
 
 ```markdown
